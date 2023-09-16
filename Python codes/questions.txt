@@ -1,1 +1,25 @@
-Questions to solve 
+# Questions to solve 
+
+# Certainly! Here are ten Python list-related questions that you can use for practice:
+
+# 1. **Sum of List Elements:** Write a Python function to calculate the sum of all elements in a list.
+
+# 2. **Find the Maximum Value:** Create a function to find the maximum value in a list of numbers without using built-in functions like `max()`.
+
+# 3. **List Reversal:** Write a function to reverse a list without using any built-in list reversal methods.
+
+# 4. **List Comprehension:** Use list comprehension to create a new list containing only the even numbers from an existing list.
+
+# 5. **Remove Duplicates:** Write a function that removes duplicates from a list and returns a new list with unique elements.
+
+# 6. **List Intersection:** Create a function that takes two lists as input and returns a new list containing only the common elements between the two lists.
+
+# 7. **List Slicing:** Given a list, write a function that returns a new list containing only the elements from index 2 to 5 (inclusive).
+
+# 8. **List Sorting:** Create a function that sorts a list of strings in alphabetical order without using built-in sorting functions.
+
+# 9. **List Manipulation:** Write a function that takes a list of integers and returns a new list with each element squared.
+
+# 10. **List Concatenation:** Write a program that concatenates two lists into one and removes any duplicates from the resulting list.
+
+# These questions cover a range of list-related operations in Python and should help you practice and improve your Python skills. If you need help with any specific question or want to see code examples, feel free to ask.
