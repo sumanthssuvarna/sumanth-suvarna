@@ -22,4 +22,3 @@
 
 # 10. **List Concatenation:** Write a program that concatenates two lists into one and removes any duplicates from the resulting list.
 
-# These questions cover a range of list-related operations in Python and should help you practice and improve your Python skills. If you need help with any specific question or want to see code examples, feel free to ask.
