@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1tQLfwk_a1LpG6hYdiDGltb6Ts1wr7_Lu
 """
 
-!pip install pyspark py4j
+#!pip install pyspark py4j
 
 from pyspark import SparkContext
 
